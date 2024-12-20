@@ -1,0 +1,33 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+### Gradle ###
+.gradle/
+gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### Java Compiled Files ###
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+### Logs & Crash Reports ###
+*.log
+hs_err_pid*
+replay_pid*
+
+### OS-Specific ###
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+### VS Code ###
+.vscode/
